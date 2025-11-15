@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy – Grid Quest</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        background: #ffffff;
+        margin: 20px;
+        line-height: 1.6;
+        color: #222222;
+    }
+    h1 {
+        text-transform: uppercase;
+        color: #000000;
+    }
+</style>
+</head>
+<body>
+
+<h1>privacy policy for grid quest</h1>
+<p>developer adamrej</p>
+<p>contact rassennw@gmail.com</p>
+
+<h2>effective date</h2>
+<p>this privacy policy explains how grid quest collects uses and protects information for all users</p>
+
+<h2>information we collect</h2>
+<p>grid quest does not collect personal information directly however third party partners may automatically collect device data through ads and analytics</p>
+
+<h2>advertising and analytics</h2>
+<p>grid quest uses third party services including admob and startio these partners may collect device information ip address app usage and interaction data this information is used to deliver relevant ads improve game performance and analyze usage patterns</p>
+
+<h2>how we use information</h2>
+<ul>
+    <li>to show ads inside the game</li>
+    <li>to improve gameplay performance</li>
+    <li>to detect issues and enhance user experience through analytics</li>
+</ul>
+
+<h2>data shared with third parties</h2>
+<p>ad networks and analytics providers may receive limited data to run their services adamrej does not sell user data</p>
+
+<h2>children</h2>
+<p>grid quest does not knowingly collect data from children under 13 third party networks may provide age appropriate ad content</p>
+
+<h2>security</h2>
+<p>we rely on industry standard security practices provided by our trusted third party partners</p>
+
+<h2>your choices</h2>
+<p>you can choose to disable personalized ads from your device settings android settings google ads opt out of ads personalization</p>
+
+<h2>policy updates</h2>
+<p>this policy may be updated as needed and updates will appear on this page</p>
+
+<h2>contact</h2>
+<p>for questions or concerns contact rassennw@gmail.com</p>
+
+</body>
+</html>
